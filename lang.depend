@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538938613 source:e:\new folder (2)\course\lang\lang\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<set>
+
